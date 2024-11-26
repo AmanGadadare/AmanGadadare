@@ -2,9 +2,9 @@
 
 
 About Me-
-- 🔭 I’m currently studying B.E. in Computer Engineering at Fr. Conceição Rodrigues College of Engineering
-- 🌱 I’m currently Exploring Blockchain and Devops
-- 👯 I’m looking to collaborate  to team success through hard work, attention to detail, and excellent organizational skills, a clear understanding of frontend, backend,     and project management.
+- 🔭 I’m currently working as Software Engineer at Jio Platforms Ltd .In Mumbai
+- 🌱 My technical expertise spans 𝐉𝐚𝐯𝐚, 𝐒𝐩𝐫𝐢𝐧𝐠 𝐁𝐨𝐨𝐭, 𝐒𝐩𝐫𝐢𝐧𝐠 𝐌𝐕𝐂, 𝐒𝐩𝐫𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐉𝐏𝐀, and 𝐒𝐐𝐋, enabling me to build robust and scalable solutions.
+- 👯  I'm actively seeking new opportunities as a backend Java developer where I can leverage my skills to contribute to innovative projects.
 
 ###Tech Stack
 
